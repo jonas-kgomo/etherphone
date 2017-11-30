@@ -6,7 +6,7 @@
     "start": "node ./app.js"
   },
   "engines": {
-    "node": "^6.9.2"
+    "node": "^v8.9.1"
   },
   "dependencies": {
     "express": "^4.14.0"
