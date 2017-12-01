@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Simple Hello World app in Express.",
   "scripts": {
-    "start": "node ./app.js"
+    "start": "node ./visualai.htm"
   },
   "engines": {
     "node": "^v8.9.1"
