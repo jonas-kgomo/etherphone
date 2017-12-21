@@ -1,5 +1,9 @@
-{
+    {
   "expo": {
-    "sdkVersion": "23.0.0"
+    "name": "Etherphone",
+    "slug": "ether-phone",
+    "sdkVersion": "23.0.0",
+    "privacy": "public"
   }
 }
+   
